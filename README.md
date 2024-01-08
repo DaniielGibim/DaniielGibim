@@ -18,10 +18,27 @@
 
 <img width="10%" height="50px" align= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width="10%" height="50px" align= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img width="10%" height="50px" align= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-        
-</div>               
+<img width="10%" height="50px" align= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
+<img width="10%" height="50px" align= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          
+</div>        
 
+### Tools:
+<div style = "dysplay: inline_block">
+  
+<img width="10%" height="50px" align= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />        
+<img width="10%" height="50px" align= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+
+</div> 
+
+### Studying in this moment:
+
+<div style = "dysplay: inline_block">
+
+<img width="10%" height="50px" align= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
+<img width="10%" height="50px" align= "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
+</div>
 
 <div align="center">  
 <a href="https://www.instagram.com/daniel_gibim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
